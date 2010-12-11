@@ -1,0 +1,6 @@
+Quiet derStandard.at
+--------------------
+
+Annoyed by stupid derStandard.at comments as well?
+
+Quiet derStandard.at is a simple Safari extension which hides the comment sections of articles by default (though, comments can still be displayed on demand).
